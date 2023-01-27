@@ -1,12 +1,24 @@
 
-<h2 align="center" dir="auto">Olá! Eu sou o Jairon Amorim 🤝</h2>
-<p>Sou um amante de tecnologia apaixonado pela minha profissão.</p>
+<h1 align="center" dir="auto">Olá! Eu sou o Jairon Amorim 🤝</h1>
+<h2>Bem-vindo ao meu repositório! :smile:</h2>
+Tenho 29 anos e sou desenvolvedor de software. Este repositório contém projetos pessoais e profissionais que venho trabalhando ao longo do tempo.
+
+<h2>Projetos :computer:</h2>
+https://github.com/JaironAmorim?tab=repositories
+
+<h2>Como contribuir :handshake:</h2>
+Se você gostaria de contribuir para algum dos projetos, sinta-se à vontade para criar uma issue ou enviar um pull request. Também ficaria feliz em colaborar em projetos de outros desenvolvedores.
+
+<h2>Contato :email:</h2>
+Se você tiver alguma dúvida ou sugestão, entre em contato comigo no e-mail jairon.amorim007@gmail.com ou através das minhas redes sociais.
+
+Agradeço pela visita e espero que você encontre algo interessante aqui! :heart:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaironAmorim&show_icons=true&theme=dark)
 
 <hr>
 
-### **Meus contatos:**
+<h2>Minhas redes sociais :globe_with_meridians:<h2>
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/jairon-amorim-02b1811b1/">
    <img
@@ -35,7 +47,7 @@
 </div>
 <hr>
 
-### **Linguagens e ferramentas:**
+<h2>Linguagens e ferramentas:<h2>
 <div style="display: inline_block">
 <img alt="java" height="40" width="40" align="center" title="JAVA"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
