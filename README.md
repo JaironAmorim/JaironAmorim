@@ -10,7 +10,7 @@ https://github.com/JaironAmorim?tab=repositories
 Se você gostaria de contribuir para algum dos projetos, sinta-se à vontade para criar uma issue ou enviar um pull request. Também ficaria feliz em colaborar em projetos de outros desenvolvedores.
 
 <h2>Contato :email:</h2>
-Se você tiver alguma dúvida ou sugestão, entre em contato comigo no e-mail jairon.amorim007@gmail.com ou através das minhas redes sociais.
+Se você tiver alguma dúvida ou sugestão, entre em contato comigo no <a href="mailto:jaironaamorim007@gmail.com">e-mail</a> ou através das minhas redes sociais.
 
 Agradeço pela visita e espero que você encontre algo interessante aqui! :heart:
 
